@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IPC1-Practica1-202004777:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPC1_Practica1_202004777_jar</output-path>
+    <root id="archive" name="IPC1-Practica1-202004777.jar">
+      <element id="module-output" name="IPC1-Practica1-202004777" />
+    </root>
+  </artifact>
+</component>
